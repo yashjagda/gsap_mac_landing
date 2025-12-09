@@ -1,5 +1,5 @@
 // manage model switcher for 14 and 16 inch macbook
-import React, { useRef } from 'react'
+import { useRef } from 'react'
 import MacbookModel14 from '../models/Macbook-14'
 import MacbookModel16 from '../models/Macbook-16'
 import { PresentationControls } from '@react-three/drei'
